@@ -9,5 +9,3 @@ This includes:
 2. Receiving data over these network connections
 3. Organizing data into batches to improve performance
 4. Sending data over any of these links
-
-**This is the second assignment for CS455: Introduction to Distributed Systems at Colorado State University**
